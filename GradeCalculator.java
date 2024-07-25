@@ -20,7 +20,7 @@ public class GradeCalculator {
                 System.out.println("Entered incorrect marks! Please enter marks between 0 and 100.");
                 return; // Exit the program if incorrect marks are entered
             }
-            sc.close();
+        
         }
 
         // Calculating sum of marks
